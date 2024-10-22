@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835743836230",
+    "firebase_url": "https://duong-tam-beauty-default-rtdb.firebaseio.com",
+    "project_id": "duong-tam-beauty",
+    "storage_bucket": "duong-tam-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835743836230:android:ea3465417cd61f371b8247",
+        "android_client_info": {
+          "package_name": "duongtambeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39IOIFT-MI9E1YhdX2GIqi637BgBIg7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
